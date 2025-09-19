@@ -1,0 +1,11 @@
+
+## Install exactly this in your virtual environment##
+
+faker
+flask
+pandas
+requests
+python-docx
+reportlab
+flake8
+flake8-html
